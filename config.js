@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6282221792667'] 
+global.owner = ['6285706735450'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OwnerTio !Jangan chat owner kl gk perlu!'
-global.numberowner = '6282221792667'
+global.nameowner = 'Owner!Jangan chat owner kl gk perlu!'
+global.numberowner = '6285706735450'
 global.instagram = 'https://instagram.com/F'
 global.github = 'https://github.com/VERDIKAWAII'
 global.dana = '085706735450'
